@@ -1,0 +1,34 @@
+c:\users\abdullah\documents\visual studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe.config
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\MySql.Data.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\MySql.Web.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.frmAdmin.resources
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.frmGiris.resources
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.frmKasiyer.resources
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.MDIParent1.resources
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Properties.Resources.resources
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.GenerateResource.Cache
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.exe
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.pdb
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\EntityFramework.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\EntityFramework.xml
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Abdullah\Documents\Visual Studio 2015\Projects\CinemaAutomation\CinemaAutomation\bin\Debug\Newtonsoft.Json.xml
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe.config
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.exe
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.pdb
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.exe
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\bin\Debug\CinemaAutomation.pdb
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\bin\Debug\EntityFramework.dll
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\bin\Debug\Newtonsoft.Json.dll
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\bin\Debug\EntityFramework.xml
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\bin\Debug\Newtonsoft.Json.xml
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csprojResolveAssemblyReference.cache
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.frmAdmin.resources
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.frmGiris.resources
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.frmKasiyer.resources
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Formlar.MDIParent1.resources
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.Properties.Resources.resources
+D:\AbdullahCelik-HalilGuler\CinemaAutomation\CinemaAutomation\obj\Debug\CinemaAutomation.csproj.GenerateResource.Cache
